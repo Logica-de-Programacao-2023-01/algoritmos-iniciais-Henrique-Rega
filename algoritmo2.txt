@@ -1,0 +1,7 @@
+Y = f-32/1,8
+X = 1,8c + 32
+Leia f
+leia c 
+se f diferente de 0 faça X
+se c diferente de 0 faça Y
+escreva o resultado 
