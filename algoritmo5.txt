@@ -1,0 +1,6 @@
+Escreva Insira o dado a ser pesquisado "x"
+Escreva Insira a lista a ser utilizada "y"
+Faça a leitura de y até encontrar x
+Escreva x e o número da coluna do dado
+
+

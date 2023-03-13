@@ -1,0 +1,3 @@
+Leia xy 
+Faça x * x de acordo com o valor de y sempre utilizando o produto da operação passada
+Escreva o resultado

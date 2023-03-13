@@ -1,0 +1,5 @@
+leia x e y
+x = altura
+y = base
+faça x* y/2
+escreva o resultado
