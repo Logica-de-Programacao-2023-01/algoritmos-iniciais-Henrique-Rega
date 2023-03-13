@@ -1,0 +1,5 @@
+leia x 
+faça x -1 até x = 1 e guarde os resultados
+multiplique todos os resultados incluindo x
+escreva x fatorial é "resultado da multiplicação dos resultados" 
+
